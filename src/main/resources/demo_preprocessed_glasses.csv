@@ -1,0 +1,2 @@
+NUM,DATE,ACC_X,ACC_Y,ACC_Z,GYRO_X,GYRO_Y,GYRO_Z,EOG_L,EOG_R,EOG_H,EOG_V,index,activity_type,duration,from,to,comment
+2,2017-06-29 19:59:15.360,-3909,10146,-12051,-498,237,-40,-161,74,-235,43,2,Walking&party,04:37,2017-06-29 16:45:00.0,2017-06-29 21:22:00.0,null
